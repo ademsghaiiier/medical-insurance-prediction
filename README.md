@@ -22,6 +22,8 @@ A Deep Learning application that predicts medical insurance costs based on custo
 
 ## Run
 
+python train_model.py
+
 pip install -r requirements.txt
 
 streamlit run app.py
